@@ -1,0 +1,17 @@
+# Build output
+**/target/
+**/node_modules/
+**/dist/
+**/.angular/
+
+# IDE
+**/.idea/
+**/*.iml
+
+# Secrets and local environment
+.env
+!.env.example
+
+# OS / logs
+.DS_Store
+*.log
